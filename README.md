@@ -1,7 +1,7 @@
 🗂️ Folder Organizer Script
 
 📝 Description
-This Python script automatically organizes the files in a selected directory. It sorts files into folders based on their file types (e.g., images, documents, videos, etc.). This tool helps keep your folders clean and easy to navigate.
+- This Python script automatically organizes the files in a selected directory. It sorts files into folders based on their file types (e.g., images, documents, videos, etc.). This tool helps keep your folders clean and easy to navigate.
 
 ---
 🌟 Features
