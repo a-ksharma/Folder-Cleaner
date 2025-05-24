@@ -12,9 +12,8 @@ This Python script automatically organizes the files in a selected directory. It
 
 ---
 📦 Requirements
-🐍 Python 3.6+
-
-📚 No external libraries required (uses only built-in Python modules)
+- 🐍 Python 3.6+
+- 📚 No external libraries required (uses only built-in Python modules)
 
 ---
 ▶️ How to Use
